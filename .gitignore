@@ -1,0 +1,4 @@
+# Project exclude paths
+/fasttrackit-comons/target/
+/invoice-app/invoice-api-client/target/
+/payment-app/payment-api-client/target/
